@@ -9,5 +9,7 @@ namespace RebasingSample
     public class Person
     {
         public double Age { get; set; }
+        public String Name { get; set; }
+        public int height { get; set; }
     }
 }
